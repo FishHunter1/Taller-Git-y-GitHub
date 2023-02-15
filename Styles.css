@@ -101,6 +101,20 @@
     background: lightblue;
     border-radius: 10px;
   }
+  section .headline2 {
+    text-align: center;
+    width: 600px;
+    display: block;
+    margin: 0 auto;
+    list-style: none;
+    height: 300px;
+    background: lightblue;
+    border-radius: 8px;
+  }
+
+  section .foto{
+    border-radius: 8px;
+  }
   section .text {
     font-weight: 500;
     font-size: 16.2px;
@@ -117,7 +131,7 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 500;
     display: block;
-    margin: 20px auto 0 auto;
+    margin: 35px auto 0 auto;
     max-width: 130px;
     height: 35px;
     background: pink;
